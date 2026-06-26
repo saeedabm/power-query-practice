@@ -42,7 +42,7 @@ Raw data rarely comes ready to analyze. A blank cell isn't always the same probl
 ## Files
 
 - `raw_customer_orders.xlsx` — original messy data
-- `cleaned_customer_orders.xlsx` — transformed output after Power Query steps
+- `transformed_customer_orders.png` — transformed output after Power Query steps
 
 ## Tools
 
