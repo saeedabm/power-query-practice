@@ -39,7 +39,7 @@ Also: a column that *displays* as numbers isn't necessarily *typed* as numbers. 
 
 - `raw_employee_attendance.xlsx` — original wide-format data
 - `working_days_reference.xlsx` — supporting reference table (Month → Working Days)
-- `cleaned_employee_attendance.xlsx` — final transformed output with Attendance %
+- `transformed_employee_attendance.xlsx` — final transformed output with Attendance %
 
 ## Tools
 
